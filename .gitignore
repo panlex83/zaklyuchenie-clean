@@ -1,0 +1,4 @@
+"venv/\noutput/\n*.docx\n*.png\n__pycache__/" 
+.env
+__pycache__/
+venv/
